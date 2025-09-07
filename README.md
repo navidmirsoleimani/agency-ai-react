@@ -53,6 +53,9 @@ This project showcases smooth animations, interactive hover effects, and seamles
 #### Dark mode
 <img width="1559" height="4239" alt="Macbook-Air-1559x4239-dark" src="https://github.com/user-attachments/assets/cb0fc527-2db2-4756-b9f8-376d507ddc98" />
 
+#### Hover Effect
+<img width="531" height="183" alt="Screenshot 2025-09-07 135710" src="https://github.com/user-attachments/assets/bf8d0e04-56f3-4823-a97b-9d8a59c2988a" />
+
 
 ### Tablet
 <img width="668" height="5893" alt="iPad-668x5893" src="https://github.com/user-attachments/assets/8c5ad3cf-bfe3-45af-97e6-eddf88c9cfd4" />
@@ -61,7 +64,6 @@ This project showcases smooth animations, interactive hover effects, and seamles
 
 ### Mobile
 <img width="393" height="5411" alt="iPhone-14-Pro-393x5411" src="https://github.com/user-attachments/assets/b036e449-ea83-4e23-a8d2-2639d106b483" />
-
 ---
 
 ## 🙌 Acknowledgements
